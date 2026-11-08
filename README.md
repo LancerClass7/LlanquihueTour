@@ -27,13 +27,21 @@ Estructura general del proyecto
 El proyecto se organiza mediante dos paquetes principales:
 
 src/
+
 ├── app/
+
 │   └── Semana3POO.java   # Clase principal con el método main
+
 │
+
 └── model/
+
     ├── Persona.java      # Clase base que representa a una persona
+    
     ├── Empleado.java     # Clase que hereda de Persona
+    
     └── Direccion.java    # Clase que representa una dirección
+    
 
 
 Descripción de las clases
