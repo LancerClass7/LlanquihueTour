@@ -26,7 +26,7 @@ Estructura general del proyecto
 
 El proyecto se organiza mediante dos paquetes principales:
 
-📁 src/
+src/
 ├── app/
 │   └── Semana3POO.java   # Clase principal con el método main
 │
