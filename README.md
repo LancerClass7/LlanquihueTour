@@ -57,7 +57,7 @@ Instrucciones para clonar y ejecutar el proyecto
 
 1. Clona el repositorio desde GitHub:
 
-   git clone https://github.com/usuario/LlanquihueTour.git
+   git clone https://github.com/LancerClass7/LlanquihueTour.git
 
 2. Abre el proyecto en NetBeans.
 
