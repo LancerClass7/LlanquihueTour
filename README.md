@@ -77,7 +77,7 @@ Requisitos
 
 ---
 
-Repositorio GitHub: [Pega aquí el enlace al repositorio]
+Repositorio GitHub: https://github.com/LancerClass7/LlanquihueTour.git
 
 Fecha de entrega: [07/11/2026]
 
